@@ -1,3 +1,0 @@
-npm -y
-npm i webpack webpack-cli -D
-npm bin
